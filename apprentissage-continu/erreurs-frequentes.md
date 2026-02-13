@@ -1,6 +1,6 @@
 ---
 derniere_maj: 2026-02-07
-nombre_erreurs_documentees: 0
+nombre_erreurs_documentees: 11
 ---
 
 # Erreurs Fréquentes et Pièges à Éviter
@@ -312,6 +312,37 @@ Chaque erreur documentée suit cette structure :
 **Fréquence observée** : [À compléter]
 **Date découverte** : 2026-02-07
 **Tags** : positionnement, éthique, ton
+
+---
+
+### Erreur 11 : Confusion de Structure de Template
+
+**Contexte** : Génération de post basé sur un template spécifique
+
+**Manifestation** :
+- Invente une structure qui n'existe pas dans le template
+- Mélange des éléments de plusieurs templates différents
+- Ne suit pas l'ordre exact des sections du template
+- Ajoute ou supprime des sections non prévues
+- Ex: Template 7 demande "LISTE POSITIVE (3 actions)" mais génère "CONTRASTE - CEUX QUI RÉUSSISSENT (3 points)"
+
+**Conséquence** :
+- Post ne respecte pas la structure validée par Nina Ramen
+- Perte de performance potentielle (structure non testée)
+- Incohérence avec base de connaissances
+- Nécessite réécriture complète
+
+**Solution** :
+1. TOUJOURS relire la structure COMPLÈTE du template avant génération
+2. Copier-coller mentalement chaque section dans l'ordre exact
+3. Vérifier section par section : Ai-je bien respecté le nom ET l'ordre ?
+4. En cas de doute, relire le template dans structures-posts-succes.md
+5. Ne JAMAIS improviser une structure "qui ressemble" au template
+6. Checklist finale : Comparer post généré avec structure template ligne par ligne
+
+**Fréquence observée** : 1 (2026-02-07 - Template 7)
+**Date découverte** : 2026-02-07
+**Tags** : templates, structure, génération-posts, Nina-Ramen
 
 ---
 
