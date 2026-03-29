@@ -7,7 +7,33 @@ et ce projet adhère au [Semantic Versioning](https://semver.org/lang/fr/).
 
 ---
 
-## [Version Actuelle: 1.0.0] - 2026-02-07
+## [Version Actuelle: 2.1.0] - 2026-03-28
+
+### Ajouté ✨
+
+**Règle priorité maximale : intention avant rédaction**
+- `instructions/instructions-gpt-principales.md` : nouvelle Section 2 "ÉTAPE 0" — 3 questions obligatoires avant tout post (émotion cible / idée forte / message à retenir)
+- `procedures/workflow-creation-post.md` : nouvelle Phase 0 + filtre intention dans relecture finale + checklist mise à jour
+
+**Posts de référence (écrits par Jennifer — exemples aboutis)**
+- `ressources/posts-jennifer-reference.md` : 4 posts validés avec analyse structure + "ce qui fait que ça marche"
+
+**Enrichissement calibrage style LinkedIn**
+- `ressources/calibrage-style-linkedin.md` : Section 10 ajoutée — 10 dispositifs récurrents extraits des posts de Jennifer :
+  - Hook = citation entourage entre guillemets
+  - Rupture par phrase solo courte
+  - Contraste "Pour eux / Toi"
+  - Outil après le vécu (jamais avant)
+  - "Tu te reconnais si..." — liste d'identification
+  - Métaphore filée (≠ métaphore ponctuelle Agatha Christie)
+  - "Evidemment que..." — validation de la boucle
+  - CTA spécifique reprenant le vocabulaire du post
+  - Autodérision neuro-affirmative
+  - Cohérence de vocabulaire inter-posts
+
+---
+
+## [Version: 1.0.0] - 2026-02-07
 
 ### Ajouté ✨
 

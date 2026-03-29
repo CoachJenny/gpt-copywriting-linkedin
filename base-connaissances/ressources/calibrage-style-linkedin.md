@@ -208,9 +208,124 @@ Expertise **affirmée et habitée** — pas arrogante, pas hésitante.
 
 ---
 
+---
+
+## 10. DISPOSITIFS RÉCURRENTS — EXTRAITS DES POSTS DE JENNIFER
+
+*Observés sur 4 posts écrits par Jennifer. Référence : posts-jennifer-reference.md*
+*Ces patterns sont à reproduire — pas comme règles rigides, mais comme signature.*
+
+---
+
+### 10.1 Le hook = citation de l'entourage entre guillemets
+
+Très récurrent. Le post commence par reproduire exactement ce que quelqu'un "de bien intentionné" dit à la cible — et ça crée une friction immédiate de reconnaissance.
+
+> *"Tu veux pas essayer de faire moins de choses en même temps ?"*
+> *"Zen, relaxe-toi un peu"*
+> *"Les gens qui te disent de faire une pause n'ont aucune idée de ce que 'stress' veut dire pour toi"*
+
+**Pourquoi ça marche** : Le lecteur entend la voix de son entourage, et ressent le même agacement. Identification instantanée.
+
+---
+
+### 10.2 La rupture par phrase solo courte
+
+Après une montée en tension ou une description longue, une phrase isolée de 3-6 mots fait rupture.
+
+> *"Et ça change tout."*
+> *"C'était faux."*
+> *"Tu tiens une semaine et ça repart."*
+
+**Usage** : marquer un pivot, une conclusion d'étape, un coup de grâce. Jamais utilisé par habitude — seulement quand l'impact le justifie.
+
+---
+
+### 10.3 Le contraste "Pour eux / Toi"
+
+Dispositif central des posts d'expertise : opposer le fonctionnement neurotypique standard et le fonctionnement du lecteur. Nomme la différence sans pathologiser.
+
+> *"Pour eux, gérer son stress c'est : [liste] — Toi, ton anxiété monte rien qu'en lisant ça."*
+
+**Usage** : créer une reconnaissance forte dès le début du corps du post. Signale que ce post est fait pour toi, pas pour quelqu'un d'autre.
+
+---
+
+### 10.4 L'outil arrive après le vécu — jamais avant
+
+Principe structurel fort : le framework ou l'outil est toujours introduit APRÈS que le lecteur s'est reconnu dans l'expérience. Jamais le contraire.
+
+> Vécu → identification → "Et c'est là que j'ai découvert..." → outil
+
+Un outil présenté avant l'identification émotionnelle = conférence. Après = révélation.
+
+---
+
+### 10.5 "Tu te reconnais si..." — la liste d'identification
+
+Liste courte (2-3 items) de comportements très spécifiques, sur le mode "si tu fais ça, ce post est pour toi". Jamais général — toujours ultra-concret et légèrement auto-moqueur.
+
+> *"Tu répètes : 'Moi, je ne travaille bien que dans l'urgence.'"*
+> *"Tu as besoin de surfer entre trois onglets différents pour trouver ton rythme de danse parfait."*
+> *"Plus l'enjeu est grand, plus ton esprit devient chirurgical."*
+
+---
+
+### 10.6 La métaphore filée
+
+Différent du "principe Agatha Christie" (image ponctuelle) : ici, une métaphore traverse tout le post de façon cohérente.
+
+> Post 4 : locomotive → rail bloqué → bulldozer → huiler le système → poser les rails → dérailler
+
+La métaphore filée donne une unité au post et rend la conclusion plus mémorable (retour à l'image initiale).
+
+---
+
+### 10.7 "Evidemment que..." — validation de la boucle
+
+Nomme avec empathie la pensée répétitive du lecteur, sans jugement. Souvent précède la liste des outils essayés et abandonnés.
+
+> *"Evidemment que toutes les semaines tu te dis que 'ça y est ça va changer'."*
+
+Signale : je sais ce que tu vis, et ce n'est pas une faiblesse.
+
+---
+
+### 10.8 Le CTA spécifique et mémorable
+
+Le CTA final reprend le vocabulaire concret du post — jamais générique ("qu'en pensez-vous ?"). La question invite à se définir, pas à valider.
+
+> *"C'est quoi ton 'calme' à toi ? Le silence total qui te paralyse ou la playlist techno qui t'aide à te concentrer ?"*
+> *"Et toi, tu es dans la zone de flottaison ou de rupture en ce moment ?"*
+
+---
+
+### 10.9 L'autodérision neuro-affirmative
+
+L'autodérision chez Jennifer n'est pas "j'ai fait une bêtise" — c'est nommer avec humour un comportement neurologique reconnaissable.
+
+> *"pour un HPI avec un petit côté TDAH qui croque la dopamine du plaisir d'élaborer comme des Pringles"*
+> *"bulldozer (la zone de crash, tu connais ?)"*
+
+Légèreté + complicité + crédibilité vécue — en une formule.
+
+---
+
+### 10.10 Cohérence de vocabulaire inter-posts
+
+Un même lexique traverse plusieurs posts pour créer une signature éditoriale reconnaissable.
+
+> "Zone de flottaison / zone de flow / zone de rupture" → Posts 2 et 4
+> "Motrice / rails / locomotive" → Post 4
+
+À cultiver : réutiliser les métaphores marquantes d'un post à l'autre pour que l'audience construise un vocabulaire commun avec Jennifer.
+
+---
+
 ## RAPPEL OPÉRATIONNEL
 
 À chaque génération de post LinkedIn :
 1. Ce fichier prime sur guide-style-jennifer-perrault.md
 2. Vérifier : est-ce que ça sonne comme une vraie conversation humaine ?
-3. Appliquer le test ultime (Q30D) avant livraison
+3. Appliquer le test ultime avant livraison
+4. Vérifier si l'un des dispositifs §10 peut être activé naturellement

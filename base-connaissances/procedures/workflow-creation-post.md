@@ -17,6 +17,24 @@ Processus étape par étape pour créer un post LinkedIn optimisé, authentique 
 
 ---
 
+## PHASE 0 : INTENTION (AVANT TOUT — 5 min)
+
+⚠️ **ÉTAPE OBLIGATOIRE** — Aucune rédaction ne commence sans avoir répondu à ces 3 questions.
+
+### Question 1 : Quelle émotion veut-on faire ressentir ?
+(curiosité, soulagement, reconnaissance, motivation, fierté, honte douce, colère libératrice, etc.)
+
+### Question 2 : Quelle est l'idée forte du post ?
+Formuler en UNE phrase maximum. Si impossible → il y a trop d'idées → scinder en plusieurs posts.
+
+### Question 3 : Que doit retenir le lecteur après avoir lu ?
+La prise de conscience, le changement de perspective, ou l'action concrète.
+
+**Ces 3 réponses sont le filtre de tout ce qui suit.**
+Chaque phrase du corps du post doit servir l'une de ces 3 réponses. Sinon, elle est retirée.
+
+---
+
 ## PHASE 1 : PRÉPARATION (10 min)
 
 ### Étape 1.1 : Définir l'Intention
@@ -100,6 +118,10 @@ Exemples :
 **Validation** : Ce message est-il clair, unique, et actionnable ?
 
 ### Étape 2.3 : Choisir le Format Narratif
+
+**Références selon type de post** :
+- Post d'expertise / éducatif → consulter **concepts-fondamentaux/posts-expertise.md** (10 frameworks + hooks testés)
+- Post de différenciation / positionnement → consulter **concepts-fondamentaux/posts-différenciation.md** (10 structures + psychologie lecteur)
 
 **Options** :
 
@@ -271,6 +293,12 @@ Exemples :
 **Placement** : À la toute fin du post (après CTA)
 
 ### Étape 4.3 : Relecture Finale
+
+**🔴 FILTRE INTENTION (appliquer en premier)** :
+- [ ] L'émotion cible est clairement ressentie à la lecture
+- [ ] Une seule idée forte — tout le reste a été retiré ou scindé
+- [ ] Le message à retenir est évident sans avoir à le chercher
+- [ ] Chaque phrase sert ces 3 objectifs (sinon → supprimer)
 
 **Checklist qualité** :
 
@@ -444,6 +472,12 @@ Pour posts stratégiques (lancement offre, manifesto) :
 ---
 
 ## CHECKLIST COMPLÈTE WORKFLOW
+
+### Phase 0 — Intention (obligatoire)
+- [ ] Émotion cible définie
+- [ ] Idée forte formulée en 1 phrase
+- [ ] Message à retenir clairement posé
+- [ ] Si trop d'idées → scindé en plusieurs posts
 
 ### Pré-Rédaction
 - [ ] Objectif défini (éduquer/inspirer/engager/promouvoir)
