@@ -1,5 +1,10 @@
 # Guide de Style - Jennifer Perrault
 
+> **⚠️ ARCHIVÉ — NE PAS UTILISER POUR LES POSTS LINKEDIN**
+> Ce document est une analyse stylométrique construite sur des textes de fiction, introspection intime et séduction — pas sur du contenu LinkedIn. Appliqué à LinkedIn, il produit un style trop dramatique et théâtral.
+> **Pour les posts LinkedIn** : utiliser `calibrage-style-linkedin.md` et `posts-jennifer-reference.md` exclusivement.
+> Ce fichier est conservé comme archive de l'analyse initiale.
+
 **Date d'analyse** : 2026-02-12 (mis à jour après analyses complémentaires)
 **Corpus analysé** : ~25,000 mots | 14 textes
 - 11 textes introspectifs/autobiographiques (2 transcriptions orales + 9 écrits)

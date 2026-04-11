@@ -73,6 +73,79 @@ Et toi, [question personnelle] ?
 
 ---
 
+### Pattern 4 : Contre-Conseil Neurotypique
+
+**Contexte** : Post expertise, objectif identification forte + reframing neurologique. Fonctionne particulièrement quand le sujet est un conseil "bien intentionné" que le lecteur neuroatypique a reçu et qui ne lui convient pas.
+
+**Solution appliquée** :
+1. Hook : attaque directe d'un conseil universel, adressé à la cible en "tu"
+2. Validation empathique de l'intention adverse (sans excuser)
+3. "Pour eux" : liste courte des comportements neurotypiques, légèrement absurdes pour la cible
+4. Retournement "Toi," : anaphore, 1-2 phrases qui nomment la réalité opposée
+5. "On t'a vendu [X] / Oui — à condition de [reframing]"
+6. "Tu te reconnais si" : 3 comportements ultra-spécifiques, auto-moqueurs
+7. Absolution neurologique : "Ce n'est pas [jugement moral], c'est [mécanisme]"
+8. Pivot paradigme : "Au lieu de voir X en [binaire], commence à penser en [courbe/nuance]"
+9. Framework 3 zones (manque / juste dosage / rupture) — nommé et mémorisable
+10. Reformulation du problème initial + enjeu réel
+11. Formule antithèse mémorable (pourrait être un tatouage)
+12. CTA spécifique reprenant le vocabulaire du post
+
+**Structure type** :
+```
+[Conseil bien intentionné] n'a aucune idée de ce que [concept] veut dire pour toi.
+
+Tout le monde croit bien faire en conseillant [persona] de [faire X].
+
+Pour eux, [concept] c'est :
+→ [action 1]
+→ [action 2]
+→ [action 3]
+
+Toi, [réaction opposée]. Toi, c'est [vérité concrète].
+
+On t'a vendu "[concept]" comme [promesse].
+Oui — à condition de [reframing].
+
+Tu te reconnais sûrement si :
+→ Tu [comportement reconnaissable]
+→ Tu [comportement 2]
+→ Plus [X], plus [Y contre-intuitif].
+
+Ce n'est pas [jugement moral]. C'est [mécanisme] à toi.
+
+Au lieu de voir [X] en [binaire], commence à penser en [courbe/nuance] :
+► [Zone manque] : [description + conséquence]
+► [Zone flow] : [description + résultat]
+► [Zone rupture] : [description + crash]
+
+Ton enjeu n'est pas [ce qu'on croit]. C'est [vrai enjeu].
+[Formule antithèse courte.]
+
+C'est quoi [ton X] à toi ? [Option A] ou [Option B] ?
+On déconstruit ça en commentaire. 👇
+```
+
+**Résultat** (POST 2 — validé, publié) :
+- Émotion cible : soulagement + reconnaissance ("enfin quelqu'un qui comprend ma mécanique")
+- Engagement fort, commentaires d'identification
+- Formule finale ("N'essaie pas d'être zen. Essaie d'être bien calibré.") citée en commentaires
+
+**Fréquence d'usage** : 1
+**Taux de réussite** : validé (1/1)
+**Date découverte** : 2026-04-11
+**Dernière utilisation** : 2026-04-11
+**Tags** : expertise, neuroatypie, reframing, identification, framework, MOFU
+
+**Ce qui fait que ça marche** :
+- Le hook brise une norme sociale sans agressivité
+- Le contraste "Pour eux / Toi" est le dispositif rhétorique central
+- Le framework arrive APRÈS l'identification — jamais avant
+- La formule finale est une antithèse mémorable du conseil d'ouverture
+- Le CTA spécifique ("la playlist techno") invite à se définir, pas à valider
+
+---
+
 ### Pattern 2 : Déconstruction Croyance Courante
 
 **Contexte** : Post éducatif, objectif repositionnement/déconstruction mythes entrepreneuriaux

@@ -1,4 +1,8 @@
 # ADDENDUM 2 : Registre Séduction Humoristique
+
+> **⚠️ ARCHIVÉ — NE PAS UTILISER POUR LES POSTS LINKEDIN**
+> Analyse d'une annonce de rencontre. Contexte hors LinkedIn. Conservé comme archive.
+> **Pour les posts LinkedIn** : utiliser `calibrage-style-linkedin.md` et `posts-jennifer-reference.md`.
 ## Analyse de "Wanted - Meaningful Connection" (Annonce Personnelle)
 
 **Date** : 2026-02-12

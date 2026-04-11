@@ -1,20 +1,11 @@
-# Calibrage Style LinkedIn — Jennifer Perrault
+# Voix LinkedIn — Jennifer Perrault
 
-**Créé** : 2026-03-08
-**Priorité** : Ce fichier PRIME sur guide-style-jennifer-perrault.md pour toute génération de contenu LinkedIn
-**Usage** : Lire AVANT de générer tout post LinkedIn
-
----
-
-## ⚠️ PROBLÈME IDENTIFIÉ À CORRIGER
-
-Le guide de style général a été calibré sur des textes **personnels intimes** (catharsis thérapeutique, fiction BDSM, introspection profonde). Appliqué tel quel à LinkedIn, il produit un style **trop dramatique, théâtral, "littérature de gare"** — non représentatif de la voix réelle de Jennifer en contexte professionnel.
-
-**Règle absolue** : même voix, registre recalibré. Ni édulcoré, ni performatif.
+**Priorité absolue** : Ce fichier prime sur tout autre document pour la génération de posts LinkedIn.
+**Référence complémentaire obligatoire** : `posts-jennifer-reference.md` — les posts réels sont le meilleur calibrage.
 
 ---
 
-## 🎯 LA VOIX LINKEDIN EN 3 PHRASES
+## La voix en 3 phrases
 
 Directe. Humaine. Légèrement inconfortable.
 
@@ -22,214 +13,80 @@ Experte qui parle depuis son vécu — sans s'épancher. Qui nomme des vérités
 
 ---
 
-## 1. INTENSITÉ ÉMOTIONNELLE : RECALIBRAGE
+## Vocabulaire — ce qui reste / ce qui part
 
-### Ce qui change par rapport au guide général
+| ❌ Interdit sur LinkedIn | ✅ Ce qui reste |
+|--------------------------|-----------------|
+| "entrailles", "viscères", "chair", "os" (émotionnel) | Décrire l'impact, l'effet, la sensation concrète |
+| "supernova", "volcan", "bombe", "torche humaine" | Métaphores précises et élégantes — quelques détails qui évoquent sans surcharger |
+| "feu violet liquide", formulations hyperboliques | Sensory mais sobre. Jamais grandiloquent. |
+| "gouffre", "précipice", "abîme", "ténèbres" | Le mécanisme plutôt que le drame |
+| "merde" et vulgarités | Anglicismes courants : "kiff", "anyway" — ok |
+| "bienveillance", "challenges", "positiver" | "gentillesse", "difficultés", "avancer" |
+| "En conclusion", "Il est important de noter" | Rien. Supprimer ces phrases. |
+| "D'une part... d'autre part", "Par ailleurs", "Ainsi" | Connecteurs naturels : "Parce que", "Et", "Mais", "Du coup" |
+| "La société", "Le monde moderne" (sans incarnation) | Anecdote précise, situation concrète |
+| "très", "extrêmement", "notamment", "particulièrement" | Le mot juste, sans renfort |
 
-Le guide général autorise des formulations très viscérales issues de l'écriture intime. Sur LinkedIn, l'intensité passe par **le mécanisme**, pas par le vocabulaire théâtral.
-
-**Principe clé** : Décrire COMMENT la sensation fonctionne, pas la nommer avec des mots dramatiques.
-
-| ❌ Trop dramatique (hors LinkedIn) | ✅ Calibrage LinkedIn |
-|------------------------------------|----------------------|
-| "Mes entrailles se tordaient" | "Une tension permanente, le genre qui ne part pas même quand tu te reposes" |
-| "Feu violet liquide dans mes nerfs" | "Quelque chose qui irradie, qui s'installe et ne demande pas la permission" |
-| "Je voulais devenir supernova" | "Le genre de colère qui cherche une sortie et n'en trouve pas" |
-| "Mon corps criait" | "Le corps finit par facturer ce que la tête refuse d'admettre" |
-| "Ses entrailles, ses viscères" | Décrire l'impact, l'effet, la sensation — jamais ce mot-là |
-
-### Épuisement / Adversité
-
-Décrire par son **mécanisme auto-alimentant**, pas par son intensité dramatique :
-> *"Une tension toujours présente. Se reposer permet juste d'en encaisser encore un peu. Et ainsi de suite."*
-
-Concret. Précis. Reconnaissable. Pas spectaculaire.
-
-### Joie / Émotions positives
-
-Avec **paradoxe et nuance** — la joie n'est pas explosive, elle est profonde et légèrement surprenante :
-> *"Il y a toujours cette surprise. Cette partie de moi qui sait de quoi elle est capable, et qui reste émerveillée que ça puisse être facile."*
-> *"La joie chez moi c'est quelque chose de profond. Je la goûte comme la première gorgée d'eau après une heure dans le désert."*
-
-— Sensory mais élégant. Jamais grandiloquent.
-
-### Vulnérabilité
-
-**Authenticité sans charge émotionnelle.** Dire une vérité inconfortable, clairement, sans s'y appesantir. La profondeur vient de la précision, pas du volume émotionnel.
+**Principe** : Décrire COMMENT la sensation fonctionne, pas la nommer avec des mots dramatiques.
+> ✅ *"Une tension permanente, le genre qui ne part pas même quand tu te reposes"*
+> ❌ *"Mes entrailles se tordaient"*
 
 ---
 
-## 2. VOCABULAIRE : MOTS AUTORISÉS / INTERDITS SUR LINKEDIN
-
-### ❌ Mots/formulations bannis pour LinkedIn (s'ajoutent à la liste noire générale)
-
-Ces mots appartiennent à l'écriture intime et sonnent faux ou excessifs sur LinkedIn :
-- "entrailles", "viscères", "chair", "os" (dans contexte émotionnel)
-- "supernova", "volcan", "bombe", "torche humaine"
-- "feu violet", "liquide violet", formulations hyperboliques couleur
-- "gouffre", "précipice", "abîme", "ténèbres" (en registre émotionnel)
-- Toute formulation qui sonnerait bien dans un roman mais bizarre dans une conversation
-- "merde" et vulgarités — réservées à d'autres contextes
-
-### ✅ Ce qui reste de la voix
-
-- Anglicismes courants : "kiff", "anyway", "ok"
-- Mots familiers non-vulgaires : "truc", "machin", "vraiment"
-- Hybridation soutenu + courant (sans le familier vulgaire)
-- Métaphores sensorielles **élégantes et précises** (comme Agatha Christie : quelques détails qui évoquent sans surcharger)
-
-### Principe Agatha Christie pour les métaphores
-
-Quelques détails précis qui **caractérisent tout en laissant de la place**. Pas une métaphore développée sur 3 lignes. Une image qui fait le travail et s'efface.
-
-> ✅ *"La première gorgée d'eau après une heure dans le désert"*
-> ❌ *"Cette joie liquide et brûlante qui montait de mes entrailles vers ma gorge pour se déverser"*
-
----
-
-## 3. RYTHME ET SYNTAXE SUR LINKEDIN
-
-### Burstiness : version LinkedIn
-
-**Oui au rythme — non à la rollercoaster émotionnelle permanente.**
-
-- Phrases courtes percutantes : oui, utilisées avec modération
-- Phrases fragments (un mot. une idée. seuls.) : autorisées si l'impact le justifie vraiment — pas par habitude
-- Anaphores ("Je veux... Je veux...") : avec modération, pas systématiquement
-- Points de suspension : avec modération
-
-**Règle 15 mots** : Viser des phrases courtes. Maximum 15 mots en moyenne. Quelques phrases plus longues si nécessaire — jamais les grandes cascades de 40-50 mots de l'écriture intime.
-
-### Format strict
+## Format
 
 - **1200 caractères maximum**
-- Paragraphes de **1 à 2 lignes maximum**
-- Interdiction blocs de texte >4 lignes
-- Densité élevée : **une idée forte par paragraphe**
-- Supprimer toute phrase qui ne sert ni l'émotion ni le message
+- Paragraphes de **1 à 2 lignes max**
+- Interdiction blocs de texte > 4 lignes
+- Phrases courtes : 15 mots en moyenne, quelques plus longues si nécessaire
+- Une idée forte par paragraphe
+- **1-2 emojis max**, stratégiques, jamais décoratifs — si doute : 0
 
 ---
 
-## 4. STRUCTURE DES POSTS
+## Structure des posts
 
-### Ouverture : in medias res
-
-Plonger directement. Pas d'introduction molle, pas de contextualisation qui retarde.
-
+**Ouverture** : In medias res. La tension, le constat, la vérité inconfortable — immédiatement.
 > ❌ *"Aujourd'hui j'avais envie de vous parler d'un sujet qui me tient à cœur..."*
-> ✅ Commencer par la tension, le constat, la vérité inconfortable — immédiatement
 
-### Corps
-
-- Une idée forte par paragraphe
+**Corps** :
 - Expérience personnelle plutôt que leçons génériques
 - Angle inattendu, vérité inconfortable — éviter les évidences recyclées
 - Mots concrets plutôt qu'abstraits
 - Phrases affirmatives
 
-### Fin
-
+**Fin** :
 - Pas de résumé
-- Pas d'appel à l'engagement forcé ("Qu'en pensez-vous ? Partagez en commentaires !")
-- Interpellation directe du lecteur : ok en fin de post ou quand c'est naturel dans le flux
+- Pas de CTA forcé ("Qu'en pensez-vous ? Partagez en commentaires !")
 - Punchline courte ou question qui laisse quelque chose ouvert
 
-### Ce qui est interdit en structure
+---
 
-- Introduction molle
-- Résumé de conclusion
-- CTA forcé
-- Conseils génériques
-- Évidences recyclées
+## Ton
+
+**Ce que c'est** : direct, conversationnel, humain, expertise habitée (pas déclarée), légèrement inconfortable, autodérision pour désamorcer quand ça devient trop intense.
+
+**Ce que ce n'est pas** : positivité forcée, jargon marketing, formules corporate, émotivité lourde, dramatisme théâtral.
 
 ---
 
-## 5. TON
+## Dispositifs récurrents — signature Jennifer sur LinkedIn
 
-### Ce que c'est
+*Extraits des posts écrits par Jennifer. Reproduire ces patterns — pas comme règles rigides, mais comme signature.*
 
-- Direct
-- Conversationnel
-- Humain
-- Expertise assumée et habitée — pas déclarée
-- Autodérision pour désamorcer quand ça devient "too on the nose"
-- Légèrement inconfortable (vérités que le lecteur pensait mais n'avait pas dites)
+### 1. Le hook = citation de l'entourage entre guillemets
 
-### Ce que ce n'est pas
-
-- Positivité forcée
-- Jargon marketing
-- Formules corporate
-- Exagération commerciale
-- Émotivité lourde
-- Dramatisme théâtral
-
----
-
-## 6. EMOJIS
-
-- **1-2 maximum, stratégiques**
-- Jamais décoratifs
-- Si doute : 0 emoji
-
----
-
-## 7. LISTES
-
-- Autorisées et adaptées à LinkedIn
-- Pour structurer du contenu éducatif ou quand plus lisible que la prose
-- Ne pas en abuser dans les posts très personnels
-
----
-
-## 8. TEST ULTIME AVANT LIVRAISON
-
-> **"Est-ce que quelqu'un qui me connaît reconnaîtrait que c'est moi ?"**
-
-Si la réponse est non — ou si on peut deviner que c'est un LLM — recommencer.
-
-**Signes d'alerte IA à éliminer** :
-- Métaphores trop développées et trop belles
-- Rythme trop parfaitement construit
-- Vocabulaire dramatique non-naturel dans une conversation
-- Formules qui sonnent comme de l'"écriture" plutôt que comme de la parole
-- Accumulations de figures de style en cascade
-
----
-
-## 9. POSTURE
-
-Mix de :
-- **Experte depuis son vécu** (l'expertise s'incarne dans l'expérience, pas dans des titres)
-- **Professionnelle avec humour et honnêteté** (la légèreté n'exclut pas le sérieux)
-- **Accompagnatrice qui observe, questionne, invite à réfléchir**
-
-Expertise **affirmée et habitée** — pas arrogante, pas hésitante.
-
----
-
----
-
-## 10. DISPOSITIFS RÉCURRENTS — EXTRAITS DES POSTS DE JENNIFER
-
-*Observés sur 4 posts écrits par Jennifer. Référence : posts-jennifer-reference.md*
-*Ces patterns sont à reproduire — pas comme règles rigides, mais comme signature.*
-
----
-
-### 10.1 Le hook = citation de l'entourage entre guillemets
-
-Très récurrent. Le post commence par reproduire exactement ce que quelqu'un "de bien intentionné" dit à la cible — et ça crée une friction immédiate de reconnaissance.
+Le post commence par reproduire exactement ce qu'un proche "bien intentionné" dit à la cible — friction immédiate de reconnaissance.
 
 > *"Tu veux pas essayer de faire moins de choses en même temps ?"*
-> *"Zen, relaxe-toi un peu"*
 > *"Les gens qui te disent de faire une pause n'ont aucune idée de ce que 'stress' veut dire pour toi"*
 
-**Pourquoi ça marche** : Le lecteur entend la voix de son entourage, et ressent le même agacement. Identification instantanée.
+**Pourquoi ça marche** : Le lecteur entend la voix de son entourage et ressent le même agacement. Identification instantanée.
 
 ---
 
-### 10.2 La rupture par phrase solo courte
+### 2. La rupture par phrase solo courte
 
 Après une montée en tension ou une description longue, une phrase isolée de 3-6 mots fait rupture.
 
@@ -237,23 +94,23 @@ Après une montée en tension ou une description longue, une phrase isolée de 3
 > *"C'était faux."*
 > *"Tu tiens une semaine et ça repart."*
 
-**Usage** : marquer un pivot, une conclusion d'étape, un coup de grâce. Jamais utilisé par habitude — seulement quand l'impact le justifie.
+**Usage** : Marquer un pivot, une conclusion d'étape, un coup de grâce. Jamais par habitude — seulement quand l'impact le justifie.
 
 ---
 
-### 10.3 Le contraste "Pour eux / Toi"
+### 3. Le contraste "Pour eux / Toi"
 
-Dispositif central des posts d'expertise : opposer le fonctionnement neurotypique standard et le fonctionnement du lecteur. Nomme la différence sans pathologiser.
+Opposer le fonctionnement neurotypique standard et le fonctionnement du lecteur. Nomme la différence sans pathologiser.
 
 > *"Pour eux, gérer son stress c'est : [liste] — Toi, ton anxiété monte rien qu'en lisant ça."*
 
-**Usage** : créer une reconnaissance forte dès le début du corps du post. Signale que ce post est fait pour toi, pas pour quelqu'un d'autre.
+**Usage** : Créer une reconnaissance forte dès le début du corps. Signale que ce post est fait pour toi, pas pour quelqu'un d'autre.
 
 ---
 
-### 10.4 L'outil arrive après le vécu — jamais avant
+### 4. L'outil arrive après le vécu — jamais avant
 
-Principe structurel fort : le framework ou l'outil est toujours introduit APRÈS que le lecteur s'est reconnu dans l'expérience. Jamais le contraire.
+Le framework ou l'outil est toujours introduit APRÈS que le lecteur s'est reconnu dans l'expérience.
 
 > Vécu → identification → "Et c'est là que j'ai découvert..." → outil
 
@@ -261,29 +118,26 @@ Un outil présenté avant l'identification émotionnelle = conférence. Après =
 
 ---
 
-### 10.5 "Tu te reconnais si..." — la liste d'identification
+### 5. "Tu te reconnais si..." — la liste d'identification
 
-Liste courte (2-3 items) de comportements très spécifiques, sur le mode "si tu fais ça, ce post est pour toi". Jamais général — toujours ultra-concret et légèrement auto-moqueur.
+Liste courte (2-3 items) de comportements très spécifiques. Jamais général — toujours ultra-concret et légèrement auto-moqueur.
 
 > *"Tu répètes : 'Moi, je ne travaille bien que dans l'urgence.'"*
 > *"Tu as besoin de surfer entre trois onglets différents pour trouver ton rythme de danse parfait."*
-> *"Plus l'enjeu est grand, plus ton esprit devient chirurgical."*
 
 ---
 
-### 10.6 La métaphore filée
+### 6. La métaphore filée
 
-Différent du "principe Agatha Christie" (image ponctuelle) : ici, une métaphore traverse tout le post de façon cohérente.
+Une métaphore traverse tout le post de façon cohérente. Donne une unité et rend la conclusion plus mémorable.
 
-> Post 4 : locomotive → rail bloqué → bulldozer → huiler le système → poser les rails → dérailler
-
-La métaphore filée donne une unité au post et rend la conclusion plus mémorable (retour à l'image initiale).
+> Post EQ-i : locomotive → rail bloqué → bulldozer → huiler le système → poser les rails → dérailler
 
 ---
 
-### 10.7 "Evidemment que..." — validation de la boucle
+### 7. "Evidemment que..." — validation de la boucle
 
-Nomme avec empathie la pensée répétitive du lecteur, sans jugement. Souvent précède la liste des outils essayés et abandonnés.
+Nomme avec empathie la pensée répétitive du lecteur, sans jugement.
 
 > *"Evidemment que toutes les semaines tu te dis que 'ça y est ça va changer'."*
 
@@ -291,41 +145,81 @@ Signale : je sais ce que tu vis, et ce n'est pas une faiblesse.
 
 ---
 
-### 10.8 Le CTA spécifique et mémorable
+### 8. Le CTA spécifique et mémorable
 
-Le CTA final reprend le vocabulaire concret du post — jamais générique ("qu'en pensez-vous ?"). La question invite à se définir, pas à valider.
+Le CTA reprend le vocabulaire concret du post — jamais générique. La question invite à se définir, pas à valider.
 
 > *"C'est quoi ton 'calme' à toi ? Le silence total qui te paralyse ou la playlist techno qui t'aide à te concentrer ?"*
-> *"Et toi, tu es dans la zone de flottaison ou de rupture en ce moment ?"*
 
 ---
 
-### 10.9 L'autodérision neuro-affirmative
+### 9. L'autodérision neuro-affirmative
 
-L'autodérision chez Jennifer n'est pas "j'ai fait une bêtise" — c'est nommer avec humour un comportement neurologique reconnaissable.
+Nommer avec humour un comportement neurologique reconnaissable. Légèreté + complicité + crédibilité vécue.
 
 > *"pour un HPI avec un petit côté TDAH qui croque la dopamine du plaisir d'élaborer comme des Pringles"*
-> *"bulldozer (la zone de crash, tu connais ?)"*
-
-Légèreté + complicité + crédibilité vécue — en une formule.
 
 ---
 
-### 10.10 Cohérence de vocabulaire inter-posts
+### 10. Cohérence de vocabulaire inter-posts
 
 Un même lexique traverse plusieurs posts pour créer une signature éditoriale reconnaissable.
 
-> "Zone de flottaison / zone de flow / zone de rupture" → Posts 2 et 4
-> "Motrice / rails / locomotive" → Post 4
+> "Zone de flottaison / zone de flow / zone de rupture" — réutilisé d'un post à l'autre.
 
-À cultiver : réutiliser les métaphores marquantes d'un post à l'autre pour que l'audience construise un vocabulaire commun avec Jennifer.
+À cultiver : réutiliser les métaphores marquantes pour que l'audience construise un vocabulaire commun avec Jennifer.
 
 ---
 
-## RAPPEL OPÉRATIONNEL
+### 11. L'anaphore "Toi, c'est..." — effet miroir
 
-À chaque génération de post LinkedIn :
-1. Ce fichier prime sur guide-style-jennifer-perrault.md
-2. Vérifier : est-ce que ça sonne comme une vraie conversation humaine ?
-3. Appliquer le test ultime avant livraison
-4. Vérifier si l'un des dispositifs §10 peut être activé naturellement
+Répétition de "Toi," en tête de phrases successives après une liste neurotypique.
+
+> *"Toi, ton anxiété monte rien qu'en lisant ça."*
+> *"Toi, c'est le silence d'une pièce vide qui t'empêche de te concentrer."*
+
+**Usage** : Immédiatement après une liste "Pour eux" — le lecteur passe d'observateur à sujet.
+
+---
+
+### 12. "Oui — à condition de" — validation partielle + retournement
+
+Concède que le conseil reçu n'est pas entièrement faux, avant de le retourner. Évite la posture binaire.
+
+> *"On t'a vendu 'la gestion du stress' comme le remède miracle. Oui — à condition de questionner où est ta zone de stress optimale."*
+
+**Pourquoi ça marche** : Jennifer ne dit pas "ils ont tort" — elle dit "pas tout à fait". Crédibilité intellectuelle préservée.
+
+---
+
+### 13. Le pivot paradigme "Au lieu de voir X en [binaire]..."
+
+Invalide un ancien cadre de lecture et en installe un nouveau. Toujours suivi immédiatement d'un framework concret.
+
+> *"Au lieu de voir le stress en 0 ou 1, ON ou OFF, commence à penser en courbe et position optimale."*
+
+Ne jamais laisser la formule seule sans l'outil qui suit.
+
+---
+
+### 14. Les symboles → et ► — hiérarchie visuelle
+
+- **→** : listes simples (comportements, exemples, actions)
+- **►** : framework nommé, zones, catégories structurantes
+
+La distinction signale au lecteur le changement de registre : des exemples à l'outil.
+
+---
+
+## Test ultime avant livraison
+
+> **"Est-ce que quelqu'un qui me connaît reconnaîtrait que c'est moi ?"**
+
+Si la réponse est non — recommencer.
+
+**Signes d'alerte à éliminer** :
+- Métaphores trop développées et trop belles
+- Rythme trop parfaitement construit
+- Vocabulaire dramatique non-naturel dans une conversation
+- Formules qui sonnent comme de l'"écriture" plutôt que comme de la parole
+- Accumulations de figures de style en cascade

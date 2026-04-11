@@ -1,4 +1,8 @@
 # ADDENDUM : Dimension Fictionnelle/Narrative
+
+> **⚠️ ARCHIVÉ — NE PAS UTILISER POUR LES POSTS LINKEDIN**
+> Analyse de fiction érotique BDSM. Contexte hors LinkedIn. Conservé comme archive.
+> **Pour les posts LinkedIn** : utiliser `calibrage-style-linkedin.md` et `posts-jennifer-reference.md`.
 ## Analyse de la Fiction Érotique BDSM
 
 **Textes analysés** :

@@ -122,6 +122,7 @@ Exemples :
 **Références selon type de post** :
 - Post d'expertise / éducatif → consulter **concepts-fondamentaux/posts-expertise.md** (10 frameworks + hooks testés)
 - Post de différenciation / positionnement → consulter **concepts-fondamentaux/posts-différenciation.md** (10 structures + psychologie lecteur)
+- Post humanisation / personnel → consulter **concepts-fondamentaux/posts-humanisation.md** (anatomie 5 blocs, 7 frameworks, pièges)
 
 **Options** :
 
@@ -354,6 +355,16 @@ Exemples :
 - 🔥 17h-18h (fin journée)
 
 **Personnaliser** : Analyser LinkedIn Analytics pour identifier horaires propres
+
+### Étape 5.1bis : Générer le visuel IA (optionnel)
+
+**Référence** : [prompts-flux-lora.md](../concepts-fondamentaux/prompts-flux-lora.md)
+
+Si le post nécessite une image IA (character LoRA) :
+1. Identifier le type de post (EXPERTISE / HUMANISATION / DISRUPTION / STORYTELLING / NEURO_IDENTITÉ)
+2. Appliquer la matrice type de post → paramètres visuels (Section 5 du guide)
+3. Générer 3 variantes (Portrait réaliste / Métaphore conceptuelle / Artistique)
+4. Paramètres : Distilled Guidance 3.0-3.5, LoRA strength 0.8, résolution 864×1080 (4:5)
 
 ### Étape 5.2 : Publier sur LinkedIn
 
