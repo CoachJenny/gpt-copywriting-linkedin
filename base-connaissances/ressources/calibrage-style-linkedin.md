@@ -211,6 +211,153 @@ La distinction signale au lecteur le changement de registre : des exemples à l'
 
 ---
 
+### 15. Hook = verdict, pas description
+
+Le hook pose une conclusion d'emblée. Le post vient l'argumenter — jamais l'inverse.
+
+> ✅ *"Si tu culpabilises quand tu te reposes, ça n'est pas de la passion. C'est de l'asservissement, et c'est politique."*
+> ❌ *"Beaucoup d'entrepreneurs ressentent une pression de productivité..."*
+
+**Formes possibles** : diagnostic + enjeu réel / affirmation tranchante + dimension systémique / vérité inconfortable + ce que ça révèle.
+Jamais une question, jamais une scène d'ouverture, jamais une description.
+
+---
+
+### 16. La structure enquête — pas arc de transformation
+
+Le récit personnel de Jennifer n'est pas héroïque. C'est une enquête courte sur une erreur d'attribution :
+
+```
+Situation absurde vécue
+→ réaction sincère au moment
+→ "Sauf que le problème ce n'était pas moi — c'était l'histoire que j'avais emportée"
+→ nomination de la vraie cause
+```
+
+Ce que le GPT fait systématiquement et qu'il ne faut pas faire : transformer ça en arc de transformation (galère → déclic → guérison). Jennifer ne se guérit pas dans ses posts. Elle identifie.
+
+---
+
+### 17. "Spoiler :" — dispositif de désillusion rapide
+
+Après une liste de promesses (✔️), une seule ligne de désillusion avec "Spoiler :".
+Deux effets simultanés : autodérision + on ne traîne pas dans le drama.
+
+> *"Spoiler : j'ai pas respiré."*
+
+Ne pas développer la désillusion. Une ligne et on passe.
+
+---
+
+### 18. Le bridge personal → clients — ordre strict
+
+Jennifer ne reste jamais trop longtemps dans le personnel. Le vécu personnel sert à légitimer, pas à se raconter.
+
+Ordre obligatoire :
+1. Mon vécu (court, précis)
+2. "Je la vois chez mes clients qui..."
+3. Comment ça se manifeste chez eux (concrètement)
+
+Le personnel est la preuve de crédibilité. Le bridge est la raison d'être du post.
+
+---
+
+### 19. L'externalisation narrative — la faire, jamais l'expliquer
+
+Quand le sujet est une histoire dominante ou une croyance héritée :
+- Donner une **majuscule** au nom de l'histoire dans le CTA ("quelle relation tu as avec **Productivité** ?")
+- Nommer l'outil APRÈS l'avoir utilisé, jamais avant
+- Le lecteur fait l'expérience sans qu'on lui explique ce que c'est
+
+> ✅ *"Ce n'est pas ta nature. C'est une histoire. Et en coaching narratif, la première chose qu'on fait c'est lui donner un nom."*
+> ❌ *"En coaching narratif, l'externalisation consiste à séparer la personne de ses problèmes, c'est-à-dire que..."*
+
+---
+
+### 20. Les détails incongrûment précis — la connivence immédiate
+
+Jennifer ne dit pas "dans mon ancien travail, c'était exigeant". Elle dit "la comptable se casse la jambe, le client mélange ses factures".
+
+Le bon détail = une image + un rien de tragicomique + universel pour la cible.
+Il n'a pas besoin d'être expliqué ni commenté. Il se dépose et on continue.
+
+> *"les Louboutins du pot de départ"*
+> *"la comptable se casse la jambe"*
+> *"le client mélange ses factures"*
+
+Quand les notes brutes de Jennifer contiennent ce type de détail — le prendre tel quel. Ne jamais le généraliser.
+
+---
+
+### 21. La mise en page comme argument
+
+Jennifer n'utilise pas les listes pour structurer — elle les utilise pour faire **ressentir** :
+
+- **→** pour les absurdités qui s'accumulent (l'injustice se voit dans la liste)
+- **✔️** pour les fausses promesses (l'ironie se lit dans le visuel)
+- **Ligne seule** pour ce qui doit peser seul
+
+La mise en page est une décision rhétorique, pas éditoriale.
+
+---
+
+### 22. Jennifer enlève — le GPT ajoute
+
+Règle de lecture avant livraison : chaque mot qui n'est pas là pour une raison précise doit partir.
+
+Ce que le GPT ajoute systématiquement et qu'il faut supprimer :
+- Le solennel ("Et quelque chose de profond se transforme en moi...")
+- L'explication de ce qui vient d'être montré
+- Le drama sur du matériau qui n'en a pas besoin ("c'était pas une épitaphe, c'était un dimanche soir")
+- Les transitions construites ("C'est pourquoi", "Ainsi")
+
+La force du post vient de ce qui manque, pas de ce qui est dit.
+
+---
+
+### 23. Familiarité de ton — jamais de syntaxe
+
+La familiarité de Jennifer passe par le **vocabulaire** (pour ta pomme, Spoiler :, c'était censé être différent) — jamais par les contractions syntaxiques.
+
+> ✅ "tu as", "tu es", "tu avais"
+> ❌ "t'as", "t'es", "t'avais"
+
+Même règle pour le corps du post et les citations intérieures directes.
+
+---
+
+### 24. La citation intérieure directe — dedans, pas dehors
+
+Pour les moments d'anxiété ou de monologue intérieur, Jennifer cite la voix directement — elle ne la résume pas.
+
+> ✅ *"Attends, j'ai le temps, je pars à l'heure - c'est l'angoisse ils vont se rendre compte qu'ils n'avaient pas besoin de m'embaucher."*
+> ❌ *"J'attendais qu'on se rende compte que je n'étais pas indispensable."*
+
+La première version met le lecteur dans la tête. La seconde est un rapport de fait.
+
+---
+
+### 25. Le CTA invite à se définir — pas à se reconnaître
+
+> ✅ *"quelle relation tu as avec Productivité ?"* — demande un effort de pensée, génère de vrais commentaires
+> ❌ *"tu te reconnais ?"* — demande juste un oui
+
+Toujours une question ouverte qui reprend le vocabulaire du post. Si possible avec la majuscule de l'histoire externalisée.
+
+---
+
+### 26. La fin — ouvrir, pas résoudre
+
+Jennifer ne conclut pas par une victoire. Elle ouvre une première respiration.
+
+> *"quelque chose se desserre"*
+> *"et ce qu'on apprend, ça se défait"*
+> *"Juste ça change quelque chose."*
+
+Honnête et ça laisse de la place pour le travail réel. Jamais de conclusion triomphante.
+
+---
+
 ## Test ultime avant livraison
 
 > **"Est-ce que quelqu'un qui me connaît reconnaîtrait que c'est moi ?"**

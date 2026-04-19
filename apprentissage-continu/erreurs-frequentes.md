@@ -1,6 +1,6 @@
 ---
 derniere_maj: 2026-04-19
-nombre_erreurs_documentees: 14
+nombre_erreurs_documentees: 18
 ---
 
 # Erreurs Fréquentes et Pièges à Éviter
@@ -397,6 +397,113 @@ Chaque erreur documentée suit cette structure :
 **Fréquence observée** : 1 (2026-04-19)
 **Date découverte** : 2026-04-19
 **Tags** : embodiment, show-dont-tell, ton, sensoriel
+
+---
+
+### Erreur 15 : Hook Trop Doux sur un Sujet Politique
+
+**Contexte** : Post sur une croyance systémique (productivité, performance, valeur humaine)
+
+**Manifestation** :
+- Hook empathique/descriptif au lieu de trancher
+- "Beaucoup d'entrepreneurs ressentent une pression de productivité..." au lieu de nommer le problème
+- Ton de compréhension au lieu de diagnostic
+
+**Conséquence** :
+- Le lecteur ne s'arrête pas — rien de nouveau, rien de surprenant
+- Perd la dimension politique qui est la vraie valeur ajoutée de l'approche Jennifer
+- Post inoffensif = post invisible
+
+**Solution** :
+1. Quand le sujet est systémique, le hook doit nommer l'enjeu réel — pas le symptôme
+2. Structure "diagnostic + enjeu en 2 lignes" : "Si [symptôme], ça n'est pas [cause supposée]. C'est [vraie cause], et c'est [enjeu plus grand]."
+3. Le mot "politique" ou "systémique" peut apparaître dans le hook — ça ne fait pas fuir, ça accroche
+4. Test : est-ce que quelqu'un pourrait copier-coller ce hook pour n'importe quel coach ? Si oui, trop générique.
+
+**Exemple corrigé** :
+- ❌ "La pression de productivité touche beaucoup d'entrepreneurs neuroatypiques."
+- ✅ "Si tu culpabilises quand tu te reposes, ça n'est pas de la passion. C'est de l'asservissement, et c'est politique."
+
+**Fréquence observée** : 1 (2026-04-19)
+**Date découverte** : 2026-04-19
+**Tags** : hook, politique, systémique, positionnement
+
+---
+
+### Erreur 16 : Histoire Personnelle Trop Lisse — Manque de Détails Incongrûment Précis
+
+**Contexte** : Posts storytelling avec expérience personnelle de Jennifer
+
+**Manifestation** :
+- "Dans mon ancien travail, c'était très exigeant" au lieu de "la comptable se casse la jambe"
+- Généralisation de l'expérience par peur de trop exposer ou trop allonger
+- Métaphores génériques au lieu d'un détail visuel unique
+
+**Conséquence** :
+- Perd la connivence immédiate ("ah oui exactement ça")
+- L'histoire semble inventée ou passe-partout
+- L'autodérision disparaît (les détails absurdes sont la base de l'autodérision)
+
+**Solution** :
+1. Chercher LE détail incongu dans les notes brutes de Jennifer — celui qui fait sourire et reconnaître en même temps
+2. Privilégier un détail concret ridicule à une explication abstraite
+3. Un bon détail = une image + un rien de tragicomique + universel pour la cible
+4. Exemples à retenir : "les Louboutins du pot de départ", "la comptable qui se casse la jambe", "le client qui mélange les factures"
+
+**Fréquence observée** : 1 (2026-04-19)
+**Date découverte** : 2026-04-19
+**Tags** : storytelling, détails-concrets, autodérision, spécificité
+
+---
+
+### Erreur 17 : Expliquer l'Externalisation au Lieu de la Faire Vivre
+
+**Contexte** : Posts sur les pratiques narratives / coaching narratif
+
+**Manifestation** :
+- "En coaching narratif, on externalise les histoires, c'est-à-dire qu'on les sépare de la personne..."
+- Expliquer le concept au lieu de l'incarner dans la structure du post
+- Nommer la technique plutôt que la faire ressentir
+
+**Conséquence** :
+- Le lecteur comprend intellectuellement mais ne vit pas l'expérience
+- Post didactique au lieu d'être transformateur
+- Perd la preuve de compétence — montrer vaut mieux qu'expliquer
+
+**Solution** :
+1. Utiliser l'externalisation narrative directement dans la structure — pas la présenter
+2. Donner une majuscule au nom de l'histoire dominante dans le CTA ("quelle relation tu as avec Productivité ?") → le lecteur fait l'expérience sans qu'on lui explique
+3. La phrase de clôture peut nommer l'outil APRÈS qu'on l'a utilisé — pas avant
+4. "Les noms ont du pouvoir. Et pour une fois, on l'utilise pour toi." = métonymie de l'approche, pas explication
+
+**Fréquence observée** : 1 (2026-04-19)
+**Date découverte** : 2026-04-19
+**Tags** : coaching-narratif, externalisation, show-dont-tell, positionnement
+
+---
+
+### Erreur 18 : Familiarité de Syntaxe — "t'as" au lieu de "tu as"
+
+**Contexte** : Tout post écrit à la deuxième personne du singulier
+
+**Manifestation** :
+- "t'as pas le droit", "t'as rien à montrer"
+- Contractions orales dans le corps du post
+
+**Conséquence** :
+- Faux registre — Jennifer écrit avec une familiarité de ton, pas de syntaxe
+- "t'as" sonne relâché/négligé ; "tu as" sonne direct et ancré
+- La voix perd sa précision — elle devient générique oral au lieu de spécifique Jennifer
+
+**Solution** :
+1. Toujours écrire "tu as", jamais "t'as"
+2. Même règle pour "t'es" → "tu es", "t'avais" → "tu avais"
+3. Le registre de Jennifer = soutenu + courant hybridé + anglicismes ponctuels — pas de l'oral transcrit
+4. La familiarité passe par le vocabulaire et le rythme, pas par les contractions syntaxiques
+
+**Fréquence observée** : 1 (2026-04-19)
+**Date découverte** : 2026-04-19
+**Tags** : syntaxe, registre, ton, deuxième-personne
 
 ---
 

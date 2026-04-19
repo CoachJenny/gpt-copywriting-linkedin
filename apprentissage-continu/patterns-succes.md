@@ -289,6 +289,84 @@ Faire de la place pour que quelque chose d'autre émerge.
 
 ---
 
+### Pattern 6 : Hook Assertion Politique + Histoire Personnelle Ancrée + Externalisation Narrative
+
+**Contexte** : Post expertise/positionnement à partir de notes brutes riches. Fonctionne quand le sujet touche à une croyance systémique (productivité, performance, valeur humaine) et que Jennifer a un vécu personnel fort à y rattacher.
+
+**Solution appliquée** :
+1. Hook : Assertion courte, tranchante, politiquement chargée — deux lignes max (diagnostic + enjeu réel)
+2. Ancrage temporel personnel : "Il y a longtemps j'ai..." — intro story ultra-spécifique
+3. Détails concrets, incongrument précis : pas "dans mon ancien travail" mais "la comptable se casse la jambe / le client mélange ses factures"
+4. Contraste formaté visuellement (→ liste "avant" / ✔️ liste "promesse") + Spoiler: désillusion en une ligne
+5. Citation intérieure directe en italique/guillemets → externalisation
+6. Pivot narratif : "Sauf que le problème ce n'était pas moi — c'était l'histoire que j'avais emportée avec [détail incongu]"
+7. Nommer l'histoire dominante en une phrase — "Celle qui dit que..."
+8. Bridge vers les clients : "Je la vois chez mes clients qui..." — personal → universel → professionnel
+9. Donner un nom avec majuscule à l'histoire dominante (ex: "Productivité") → externalisation narrative technique
+10. Phrase de clôture qui nomme l'approche en l'incarnant : "Les noms ont du pouvoir. Et pour une fois, on l'utilise pour toi."
+11. CTA : "quelle relation tu as avec [Nom de l'histoire] ?" — maintient la majuscule, invite à une relation avec le concept, pas juste à se reconnaître
+
+**Structure type** :
+```
+[Diagnostic court]. [Enjeu politique en 1 ligne].
+
+Il y a longtemps j'ai [situation contrastée].
+
+En [ancien contexte], [règle absurde concrète].
+→ [Détail précis absurde 1]
+→ [Détail précis absurde 2]
+→ [Conséquence injuste]. Normal. Enfin c'est ce que tout le monde avait l'air de penser.
+
+[Nouveau contexte], c'était censé être différent.
+✔️ [Promesse 1]
+✔️ [Promesse 2]
+✔️ [Promesse 3]
+Spoiler : [désillusion en 1 ligne].
+
+"[Citation intérieure directe — la voix]"
+
+Sauf que le problème ce n'était pas moi — c'était [l'histoire/le conditionnement] que j'avais emporté avec [détail incongu + savoureux].
+
+Celle qui dit que [formulation de l'histoire dominante].
+
+Je la vois chez mes clients qui [contexte clients — pont personal/pro].
+
+[Ce que fait cette voix concrètement — 2-3 manifestations courtes]
+
+Ce n'est pas ta nature de [symptôme]. C'est une histoire.
+Et en coaching narratif, la première chose qu'on fait c'est lui donner un nom.
+[Phrase de clôture sur le pouvoir des noms.]
+
+Et toi, quelle relation tu as avec [Nom de l'histoire] ?
+Dis-le moi en commentaire 👇
+```
+
+**Ce qui fait que ça marche** :
+- Le hook "c'est politique" donne une dimension systémique sans être militant — ça déculpabilise ET ça politise (deux effets en un)
+- Les détails absurdes ultra-concrets ("comptable qui se casse la jambe") créent une connivence immédiate — le lecteur rit ET se reconnaît
+- "les Louboutins du pot de départ" = métaphore précise, autodérision, image visuelle — fait le boulot en 6 mots
+- La majuscule à "Productivité" dans le CTA est un geste de coaching narratif en live — le lecteur fait l'expérience de l'outil
+- Le bridge "Je la vois chez mes clients" est la séquence la plus importante pour la conversion : personal → universel → je sais t'aider
+
+**Points d'attention stylistiques** :
+- Les détails doivent être incongrûment spécifiques — pas "mes collègues étaient exigeants" mais "la comptable se casse la jambe"
+- La ligne politique du hook doit être tranchante mais pas agressive — "asservissement" oui, "exploitation capitaliste" non (reste incarné, pas militant)
+- Le "Spoiler :" est un dispositif d'autodérision qui allège — à conserver dans ce type de post
+- Ne pas expliquer l'externalisation narrative — juste la faire. Le lecteur n'a pas besoin de savoir ce que c'est pour vivre l'effet.
+
+**Résultat attendu** :
+- Commentaires d'identification forte + partage d'histoires personnelles
+- Positionnement coaching narratif en actes (le lecteur a vécu l'externalisation)
+- Fort potentiel de partage (le hook "c'est de l'asservissement, et c'est politique" est clivant positivement)
+
+**Fréquence d'usage** : 1 (version corrigée par Jennifer 2026-04-19)
+**Taux de réussite** : En test
+**Date découverte** : 2026-04-19
+**Dernière utilisation** : 2026-04-19
+**Tags** : hook-politique, storytelling-personnel, externalisation-narrative, détails-concrets, MOFU, positionnement
+
+---
+
 ## PATTERNS EN TEST
 
 _[Patterns identifiés mais nécessitant validation (>3 utilisations avant passage en "Actifs")]_
