@@ -1,7 +1,7 @@
 ---
-derniere_maj: 2026-02-07
-nombre_utilisations: 0
-taux_succes: 0%
+derniere_maj: 2026-04-19
+nombre_utilisations: 2
+taux_succes: en calcul
 ---
 
 # Patterns de Succès Validés
@@ -218,6 +218,74 @@ Raconte-moi en commentaire.
 **Date découverte** : 2026-02-07
 **Dernière utilisation** : [À remplir]
 **Tags** : question, introspection, engagement, TOFU
+
+---
+
+### Pattern 5 : Monologue Intérieur Reconnaissable + Déconstruction Narrative
+
+**Contexte** : Post expertise/humanisation combinés, objectif identification forte + déconstruction d'une croyance de performance héritée. Fonctionne particulièrement sur les thèmes de productivité, auto-jugement, perfectionnisme — terreau neuroatypique.
+
+**Solution appliquée** :
+1. Hook : Citation directe du monologue intérieur, ancrée avec fréquence + persona précis
+2. Phrase pivot : "Un·e entrepreneur·e qui [objectif] sait reconnaître que cette voix-là ment"
+3. Liste courte (3 →) : ce que cette personne reconnaît (validation + compétence)
+4. Retournement : "Car il/elle a compris que cette voix-là n'est pas la sienne. C'est une histoire apprise."
+5. Bloc "Trop d'entrepreneurs pensent que..." → nommer l'erreur commune
+6. "Résultat ?" + conséquences concrètes (2-3 →) dont une ↳ finale plus dure
+7. "C'est là que tout se coince." (phrase charnière, respiration)
+8. 3 réflexes numérotés — courts, sans sur-explication
+9. Phrase de pivot vers l'offre — nommer l'approche sans vendre
+10. CTA réflexif : question + invitation à l'action concrète en commentaire
+
+**Structure type** :
+```
+"[Monologue intérieur précis]". Se dit [persona] [fréquence].
+
+Un·e entrepreneur·e neuroatypique qui [objectif ambitieux sans s'épuiser] sait reconnaître que cette voix-là ment.
+
+→ [Ce qu'il·elle fait différemment — validation 1]
+→ [Validation 2]
+→ [Validation 3 — mécanisme neurologique nommé]
+
+Car il·elle a compris que cette voix-là n'est pas la sienne. C'est une histoire apprise.
+
+Trop d'entrepreneurs neuroatypiques pensent que [fausse solution].
+
+Résultat ?
+→ [Conséquence 1 — comportement importé]
+→ [Conséquence 2 — auto-jugement]
+↳ Et finissent par croire que c'est leur nature de se sentir comme ça. Pas leur conditionnement.
+
+C'est là que tout se coince.
+
+3 réflexes pour avancer sans te détruire :
+1/ [Réflexe court + sous-question]
+2/ [Réflexe court + concept narratif incarné]
+3/ [Réflexe court + formule de clôture mémorable]
+
+C'est exactement ça le travail en [approche] — [ce qu'on déconstruit].
+
+Faire de la place pour que quelque chose d'autre émerge.
+[Question réflexive + invitation commentaire] 👇
+```
+
+**Points d'attention stylistiques (corrections Jennifer 2026-04-19)** :
+- Le hook doit être nuancé et vrai ("pas assez fait" > "rien fait" — plus proche du monologue neuroA réel)
+- "Histoire apprise" (pas "règle héritée") — cohérence vocabulaire coaching narratif
+- Les conséquences doivent avoir un poids physique : "empilent sur leur dos le poids de ce jugement là"
+- Le point sur la transmission sociale doit nommer le mécanisme : "un carcan invisible qu'on se transmet sans le nommer, qui influence et qui se renforce"
+- Le CTA doit poser une question d'action concrète, pas juste de reconnaissance ("quelle question tu aimerais lui poser ?" > "tu te reconnais ?")
+
+**Résultat attendu** :
+- Forte identification persona neuroatypique
+- Commentaires de type "je me reconnais tellement" + partage de leur propre expérience
+- Positionnement coaching narratif renforcé (différenciation claire)
+
+**Fréquence d'usage** : 1 (version corrigée par Jennifer)
+**Taux de réussite** : En test
+**Date découverte** : 2026-04-19
+**Dernière utilisation** : 2026-04-19
+**Tags** : monologue-intérieur, déconstruction, coaching-narratif, identification, MOFU, humanisation
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-derniere_maj: 2026-02-07
-nombre_erreurs_documentees: 11
+derniere_maj: 2026-04-19
+nombre_erreurs_documentees: 14
 ---
 
 # Erreurs Fréquentes et Pièges à Éviter
@@ -312,6 +312,91 @@ Chaque erreur documentée suit cette structure :
 **Fréquence observée** : [À compléter]
 **Date découverte** : 2026-02-07
 **Tags** : positionnement, éthique, ton
+
+---
+
+### Erreur 12 : Hook Trop Abstrait — Pas Ancré ni Incarné
+
+**Contexte** : Génération d'un hook basé sur un monologue intérieur reconnaissable
+
+**Manifestation** :
+- Hook générique sans ancrage concret ("Je n'ai encore rien fait aujourd'hui")
+- Absence de fréquence, de genre, de contexte spécifique
+- Ça pourrait être dit par n'importe qui — pas par une entrepreneuse neuroatypique précise
+
+**Conséquence** :
+- Moins d'identification pour le persona cible
+- Hook non différenciant, fade
+- Jennifer doit réécrire
+
+**Solution** :
+1. Ajouter une fréquence ("3 fois par semaine") → rend le pattern reconnaissable
+2. Ancrer dans le genre ou la réalité du persona ("une entrepreneuse neuroA")
+3. Nuancer la phrase elle-même — "pas assez fait" est plus précis que "rien fait" (plus vrai, plus neuroA)
+4. Test : est-ce que seule une entrepreneuse neuroatypique dirait ça ? Si non, préciser.
+
+**Exemple corrigé** :
+- ❌ "Je n'ai encore rien fait aujourd'hui."
+- ✅ "Je n'ai encore pas assez fait aujourd'hui. Se dit une entrepreneuse neuroA 3 fois par semaine."
+
+**Fréquence observée** : 1 (2026-04-19)
+**Date découverte** : 2026-04-19
+**Tags** : hook, incarnation, spécificité, persona
+
+---
+
+### Erreur 13 : Vocabulaire Non Cohérent avec le Coaching Narratif
+
+**Contexte** : Posts sur les croyances, conditionnements, histoires limitantes
+
+**Manifestation** :
+- "Règle héritée" au lieu de "histoire apprise"
+- "Quelqu'un l'a écrite avant toi" seul, sans nommer la transmission sociale
+- Explication intellectuelle ("Pas une vérité") sans incarner le concept narratif
+
+**Conséquence** :
+- Incohérence avec le positionnement de Jennifer (coaching narratif ≠ coaching classique)
+- Perd la spécificité de l'approche
+- Moins de crédibilité pour l'audience qui connaît les pratiques narratives
+
+**Solution** :
+1. Préférer "histoire apprise / histoire dominante / histoire héritée" à "règle héritée"
+2. Nommer la transmission : "un carcan invisible qu'on se transmet sans le nommer, qui influence et qui se renforce"
+3. Ne pas juste dire "c'est faux" — montrer le mécanisme narratif (comment l'histoire s'est construite et se perpétue)
+4. Référence : vocabulaire issu de la narrative therapy (Michael White) — externalisation, histoires dominantes, contre-histoires
+
+**Fréquence observée** : 1 (2026-04-19)
+**Date découverte** : 2026-04-19
+**Tags** : vocabulaire, coaching-narratif, cohérence, positionnement
+
+---
+
+### Erreur 14 : Embodiment Insuffisant dans le Corps du Post
+
+**Contexte** : Description d'un comportement ou d'un pattern psychologique
+
+**Manifestation** :
+- "Mesurent leur journée à ce qu'ils ont sorti" → fonctionnel mais plat
+- Aucun poids, aucune sensation, aucun corps dans la phrase
+- On décrit le fait sans le faire ressentir
+
+**Conséquence** :
+- Perd l'effet "elle me comprend" — clé pour le persona neuroatypique
+- Post intellectuel au lieu d'être viscéral
+- Moins de partages (on partage ce qu'on ressent, pas ce qu'on comprend)
+
+**Solution** :
+1. Ajouter une image physique : "empilent sur leur dos le poids de ce jugement"
+2. Faire ressentir, pas juste nommer — "show, don't tell" appliqué au corps
+3. Question-test : est-ce qu'on peut visualiser ce que vit la personne ? Si non, ajouter un ancrage sensoriel
+
+**Exemple corrigé** :
+- ❌ "Ils mesurent leur journée à ce qu'ils ont sorti"
+- ✅ "Ils se jugent chaque jour à l'aune de ce qu'ils ont sorti, et empilent sur leur dos le poids de ce jugement là."
+
+**Fréquence observée** : 1 (2026-04-19)
+**Date découverte** : 2026-04-19
+**Tags** : embodiment, show-dont-tell, ton, sensoriel
 
 ---
 
