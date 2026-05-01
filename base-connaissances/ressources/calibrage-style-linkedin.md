@@ -358,6 +358,82 @@ Honnête et ça laisse de la place pour le travail réel. Jamais de conclusion t
 
 ---
 
+### 27. Le retournement "Tu vas me dire..." — désamorçage anticipé
+
+Jennifer anticipe l'objection ou l'accusation qu'elle sent venir, la formule elle-même à voix haute, puis la désamorce par des preuves concrètes.
+
+> *"Tu vas me dire 'Elle est gonflée elle, elle écrit le 1er mai'."*
+> Suivi immédiatement d'une liste numérotée : "Oui mais : 1/ ... 2/ ..."
+
+**Pourquoi ça marche** : Jennifer ne se défend pas — elle montre qu'elle a anticipé le jugement. Crée une connivence : elle sait ce que tu penses, et elle t'a devancé. Désamorce le cynisme avant qu'il se forme.
+
+**Quand l'utiliser** : Quand le post pourrait sembler contradictoire avec son sujet (travailler un jour férié en parlant de régulation), ou quand Jennifer prend une position qui expose à la critique.
+
+---
+
+### 28. La liste de preuves auto-légitimantes (1/ 2/ 3/) — transparence, pas défense
+
+Après une prise de position ou une action qui pourrait être jugée, Jennifer liste les conditions concrètes qui lui permettent de la tenir — sans argumenter, sans se justifier. Elle expose, elle ne plaide pas.
+
+> *"1/ Je suis neuroA, j'ai construit un équilibre qui me permet de m'adapter finement à mes besoins*
+> *2/ Je viens de prendre une semaine sans ordi*
+> *3/ J'ai fait une heure de stretching ce matin*
+> *4/ Le reste de ma semaine est correctement balancé..."*
+
+**Ce que ce n'est pas** : une liste de réalisations pour impressionner. C'est une liste de conditions — ce qui permet le choix. La différence est dans la modestie du registre.
+
+---
+
+### 29. Le staccato ultra-court pour les posts de honte/reconnaissance
+
+Quand le sujet touche à la honte, à l'épuisement, ou à une vérité difficile à regarder, Jennifer utilise des phrases d'une seule ligne — parfois un seul syntagme.
+
+> *"Un message non lu.*
+> *Un fichier manquant.*
+> *L'étiquette tombe."*
+
+**Effet** : le rythme ralentit la lecture, chaque phrase pèse seule, le lecteur ne peut pas survoler. Adapté au contenu — un post sur la honte ne peut pas être lu en diagonale.
+
+**Quand l'utiliser** : Posts d'humanisation/dissolution de honte uniquement. Pas pour les posts d'expertise ou de différenciation où le rythme plus long tient mieux.
+
+---
+
+### 30. La fin-verdict sans CTA — quand le post n'a pas besoin d'une question
+
+Certains posts se terminent par une déclaration, pas une question. Le post a dit ce qu'il avait à dire. Demander "et toi ?" affaiblirait la conclusion.
+
+> *"Tu n'es pas une machine."*
+> *"Ce moule n'a pas été conçu pour nous."*
+
+**Règle** : quand la dernière phrase est une prise de position ou une déclaration d'appartenance, la laisser seule. Ne pas ajouter de CTA par réflexe.
+
+---
+
+### 31. L'auto-interrogation à voix haute — la pensée visible
+
+Jennifer pose la question avant d'y répondre, à voix haute dans le texte.
+
+> *"Qu'est-ce qu'on cherche en faisant ça ?"*
+> *"A comprendre, à évaluer impatiemment si on peut faire confiance."*
+
+**Pourquoi ça marche** : le mouvement de pensée est visible. Ce n'est pas un cours magistral — Jennifer cherche devant le lecteur. Évite la posture descendante.
+
+**Différence avec le CTA** : la question auto-interrogative est au milieu du post, pas à la fin. Elle propulse le post en avant. Le CTA est à la fin et s'adresse au lecteur.
+
+---
+
+### 32. L'interpellation collective en hook — "vous êtes combien à..."
+
+Alternative au hook-verdict : une interpellation qui convoque une communauté sur un comportement partagé.
+
+> *"Dites les solopreneurs, vous êtes combien à n'avoir même pas réalisé qu'aujourd'hui était férié ?"*
+
+**Différence avec le verdict** : ne pose pas de conclusion d'emblée, pose une situation. Le lecteur se reconnaît dans le comportement avant d'être invité à réfléchir. Plus inclusif, légèrement complice.
+
+**Quand l'utiliser** : quand le post porte sur une culture commune (performance, réseau, injonctions) plutôt que sur une expérience individuelle. Garde le "on" tout au long du post.
+
+---
+
 ## Test ultime avant livraison
 
 > **"Est-ce que quelqu'un qui me connaît reconnaîtrait que c'est moi ?"**

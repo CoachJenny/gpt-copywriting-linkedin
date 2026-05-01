@@ -1,7 +1,7 @@
 ---
 titre: Workflow de Création de Post LinkedIn
-version: 1.0.0
-derniere_maj: 2026-02-07
+version: 2.0.0
+derniere_maj: 2026-05-01
 utilisations: 0
 efficacite: À mesurer
 tags: [procedure, workflow, creation-post, processus]
@@ -17,21 +17,110 @@ Processus étape par étape pour créer un post LinkedIn optimisé, authentique 
 
 ---
 
+## WORKFLOW MODE 1 — GÉNÉRATION DEPUIS IDÉE (séquentiel, ne pas sauter d'étape)
+
+**Déclencheur** : Jennifer apporte une idée brute — début de post, phrase, commentaire fait sur le post de quelqu'un d'autre.
+
+### Étape 1 — 6 combos idée forte / émotion à activer
+
+À partir de l'idée apportée, proposer 6 combos vérifiés en adéquation avec le positionnement, la ligne éditoriale et la cible :
+
+**3 combos viralité / positionnement large** (portée maximale, audience élargie)
+→ Viser une résonance plus universelle, ancrage neuroatypique mais accessible à tous
+
+**3 combos cible spécifique** (entrepreneurs neuroatypiques, objectif conversion)
+→ Viser reconnaissance Tier 1, parler directement au persona Sophie / Marc / Léa / Thomas / Émilie
+
+Pour chaque combo, préciser :
+- L'idée forte (1 phrase)
+- L'émotion principale à activer (Tier 1/2/3 selon objectif)
+- Le type de post : **expertise** / **différenciation** / **humanisation** (ou mix)
+
+⚠️ **Pas de rédaction avant que Jennifer ait sélectionné un combo ou donné le feu vert explicite.**
+
+---
+
+### Étape 2 — Choix de la structure
+
+Relire toutes les structures de posts à succès dans cet ordre — ne pas conclure "aucun template" avant d'avoir vérifié les deux sources :
+
+1. `apprentissage-continu/patterns-succes.md` — templates validés maison
+2. `base-connaissances/ressources/posts-nina-ramen/` — templates Ramen (différenciation, expertise, humanisation)
+
+→ Si un template Nina Ramen s'applique : le proposer avec sa structure complète visible, pas juste son nom.
+→ Sinon : proposer une structure construite à partir des meilleures structures connues, avec les blocs clairement nommés.
+
+---
+
+### Étape 3 — 3 rédactions
+
+Proposer 3 rédactions différentes (angles ou registres narratifs distincts).
+
+**Avant de rédiger, relire :**
+- Critères de formalisme : aération, phrases courtes, retour à la ligne souvent, 1200-1600 caractères
+- `calibrage-style-linkedin.md` + `posts-jennifer-reference.md` pour la personnalisation du style
+- Appliquer test ultime Section 5.4 (instructions-gpt-principales.md) avant livraison
+
+**Caractères de liste à utiliser en priorité :**
+→, ↳, ⇒
+1/, 2/, 3/
+►, ✔️
+
+---
+
+### Étape 4 — Jennifer modifie
+
+⏸ **Pause** — Jennifer retravaille le texte retenu. Le GPT attend sans proposer de variantes supplémentaires sauf si demandé.
+
+---
+
+### Étape 5 — 5 CTA
+
+Proposer 5 options de CTA en rapport direct avec le contenu du post :
+- Varier les registres : engagement (commentaire), intention (save/partage), conversion (DM/RDV)
+- Adapter au type de post retenu (expertise / différenciation / humanisation)
+
+---
+
+### Étape 6 — Tagline
+
+Ajouter systématiquement en fin de post :
+
+```
+---
+
+Jennifer, Coach certifiée | Intelligence émotionnelle
+
+J'accompagne les entrepreneur·es neuroatypiques qui s'épuisent à force d'idées inachevées.
+
+Objectif : apaisement durable et projets livrés.
+
+Des outils concrets pour un fonctionnement soutenable.
+```
+
+---
+
 ## PHASE 0 : INTENTION (AVANT TOUT — 5 min)
 
 ⚠️ **ÉTAPE OBLIGATOIRE** — Aucune rédaction ne commence sans avoir répondu à ces 3 questions.
 
-### Question 1 : Quelle émotion veut-on faire ressentir ?
-(curiosité, soulagement, reconnaissance, motivation, fierté, honte douce, colère libératrice, etc.)
+### Question 1 : Quelle émotion vraie veut-on déclencher ? (pas un état cognitif)
+
+Choisir selon l'objectif :
+- **Tier 1 — conversion** (DM, RDV) : reconnaissance/"c'est moi", soulagement anticipé, espoir crédible, honte nommée et dissoute
+- **Tier 2 — catalyseurs** (intention) : indignation morale partagée, fierté authentique anticipée, peur du statu quo
+- **Tier 3 — amorçage seulement** : curiosité, surprise, joie
+
+La curiosité fait cliquer, l'identification fait signer. → Référence : `concepts-fondamentaux/psychologie-emotions-linkedin.md`
 
 ### Question 2 : Quelle est l'idée forte du post ?
 Formuler en UNE phrase maximum. Si impossible → il y a trop d'idées → scinder en plusieurs posts.
 
 ### Question 3 : Que doit retenir le lecteur après avoir lu ?
-La prise de conscience, le changement de perspective, ou l'action concrète.
+La prise de conscience, le changement de perspective, ou l'action concrète — formulé comme il le dirait à un ami.
 
 **Ces 3 réponses sont le filtre de tout ce qui suit.**
-Chaque phrase du corps du post doit servir l'une de ces 3 réponses. Sinon, elle est retirée.
+Chaque mot du post doit servir l'une de ces 3 réponses : l'impact émotionnel, l'idée forte, ou le ton humain et caractéristique. Sinon, il est supprimé.
 
 ---
 
@@ -299,7 +388,14 @@ Exemples :
 - [ ] L'émotion cible est clairement ressentie à la lecture
 - [ ] Une seule idée forte — tout le reste a été retiré ou scindé
 - [ ] Le message à retenir est évident sans avoir à le chercher
-- [ ] Chaque phrase sert ces 3 objectifs (sinon → supprimer)
+- [ ] **Suppression des mots inutiles** : passer sur chaque phrase — ce mot / cette phrase sert-il l'impact émotionnel, l'idée forte, ou le ton humain caractéristique ? Sinon → supprimer.
+
+**🔴 FILTRE ÉMOTION** :
+- [ ] Phrase somatique présente ("ouf" ou "aïe" dans le corps) — si absente, réécrire
+- [ ] Tendance à l'action identifiable (commenter / DM / RDV / sauvegarder)
+- [ ] Si honte présente : nommée et dissoute, jamais induite
+- [ ] Si colère présente : dirigée vers un système, pas vers le lecteur
+- [ ] L'émotion ouverte est refermée ou dirigée dans le post
 
 **Checklist qualité** :
 
